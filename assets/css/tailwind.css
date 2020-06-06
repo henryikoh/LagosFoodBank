@@ -1,0 +1,30 @@
+
+/* @import 'tailwindcss/base';
+@import 'tailwindcss/components';
+
+.container {
+  @apply  mx-auto bg-red-900;
+}
+@import 'tailwindcss/utilities'; */
+
+@tailwind base;
+@tailwind components;
+
+.container {
+  @apply  w-90 mx-auto;
+}
+
+@responsive{
+
+
+.card-shadow{
+  box-shadow: 20px 20px theme('colors.brand.accent');
+}
+}
+@screen md {
+  .container {
+    @apply  w-75 mx-auto;
+  }
+}
+
+@tailwind utilities

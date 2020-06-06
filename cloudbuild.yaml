@@ -1,0 +1,12 @@
+steps:
+ # build the container 
+ - name: 'gcr.io/cloud-builders/docker'
+   args: ['build', '--network=cloudbuild','-t', 'gcr.io/lagosfoodbankapp/server', '.']
+ # push the container image to Container Registry
+ - name: 'gcr.io/cloud-builders/docker'
+   args: ['push', 'gcr.io/lagosfoodbankapp/server']
+ # Deploy container image to Cloud Run
+ - name: 'gcr.io/cloud-builders/gcloud'
+   args: ['run', 'deploy', 'webapp', '--image', 'gcr.io/lagosfoodbankapp/server', '--region', 'us-central1', '--platform', 'managed', '--allow-unauthenticated']
+images: 
+- 'gcr.io/lagosfoodbankapp/server'
