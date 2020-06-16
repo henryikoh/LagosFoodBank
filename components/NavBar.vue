@@ -1,7 +1,7 @@
 <template>
-	<div class="w-85 mx-auto flex justify-between py-5">
+	<div class="nav bg-white flex items-center justify-between mx-auto py-5 sticky top-0  z-10   ">
 		<div>
-			Logo
+			<img src="/logo.png" alt="" style="width: 141px;" />
 		</div>
 		<div>
 			<ul class="flex items-center menu hidden lg:flex">
@@ -9,7 +9,10 @@
 				<li class="">About</li>
 				<li class="">Donations</li>
 				<li class="">
-					<button v-scroll-to="'#money'" class="btn bg-brand-accent text-brand-primary tracking-wide">
+					<button
+						v-scroll-to="'#money'"
+						class="btn bg-brand-accent text-brand-primary tracking-wide"
+					>
 						Donate
 					</button>
 				</li>
@@ -28,5 +31,9 @@ export default {}
 }
 .menu li:first-child {
 	@apply m-0;
+}
+.nav{
+	padding-left: 3.75%;
+	padding-right: 3.75%;
 }
 </style>

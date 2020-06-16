@@ -31,6 +31,7 @@ module.exports = {
 			'90': '90%',
 			'95': '95%',
 			full: '100%',
+			fit: 'fit-content',
 			screen: '100vw',
 		},
 		extend: {
@@ -62,7 +63,7 @@ module.exports = {
 					acccentLight: '#F9FFD6',
 					accentLighter: '#FBFBF3',
 					primary: '#7B9B0D',
-					primaryLight: "#CDE380"
+					primaryLight: '#CDE380',
 				},
 			},
 		},
@@ -73,7 +74,6 @@ module.exports = {
 		textColor: ['responsive', 'hover', 'focus', 'active'],
 		borderColor: ['responsive', 'hover', 'focus', 'active'],
 		borderWidth: ['responsive', 'focus'],
-
 	},
 	plugins: [
 		plugin(function({ addComponents }) {
@@ -84,7 +84,7 @@ module.exports = {
 					borderRadius: '0.5rem',
 					paddingTop: '0.75rem',
 					paddingBottom: '0.75rem',
-		
+
 					// backgroundColor: "#EAF3CA",
 					'&:focus': {
 						outline: '0',
