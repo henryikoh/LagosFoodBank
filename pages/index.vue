@@ -48,7 +48,7 @@
 			Communities Reached
 		</h1>
 		<div
-			class="container flex flex-no-wrap gap-5 lg:grid lg:grid-cols-3 mb-20 overflow-x-scroll relative touch lg:overflow-hidden"
+			class="container flex flex-no-wrap gap-5 lg:grid lg:grid-cols-3 mb-20 overflow-x-auto relative touch lg:overflow-hidden"
 		>
 			
 				<Community name = "Obalende,Lagos Island" date="16th of April 2020" img="/oban.jpg" />
