@@ -1,13 +1,13 @@
 <template>
-	<div class="mt-6">
+	<div class="mt-6 flex-none mr-5 w-90 lg:w-full">
 		<img
-			class="object-center object-cover rounded-lg w-full card-h"
-			src="/hero2.jpg"
+			class="object-center rounded-lg w-full card-h"
+			:src="this.img"
 			alt=""
 		/>
-		<h4 class="mt-2 text-gray-600 text-lg">Sunday, 14th May</h4>
+		<h4 class="mt-2 text-gray-600 text-lg">{{ this.date }}</h4>
 		<h1 class="font-bold leading-none text-3xl text-gray-900">
-			Makoko Community
+		{{ this.name }}
 		</h1>
 		<!-- <div class="flex items-center justify-between mt-2">
       <h3 class=" bg-brand-acccentLight border border-brand-primary px-3 py-1 rounded-md text-gray-700 text-sm">7,000 Families Fed</h3>
@@ -17,7 +17,9 @@
 </template>
 
 <script>
-export default {}
+export default {
+	props:['name','date','img','link']
+}
 </script>
 
 <style scoped>

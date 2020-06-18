@@ -4,18 +4,50 @@ export default {
 	 ** Headers of the page
 	 */
 	head: {
-		title: process.env.npm_package_name || '',
+		title: 'Lagos Food Bank\'s  COVID-19 Emergency Food Intervention Plan (CEFIP)',
 		meta: [
 			{ charset: 'utf-8' },
 			{ name: 'viewport', content: 'width=device-width, initial-scale=1' },
 			{
 				hid: 'description',
 				name: 'description',
-				content: process.env.npm_package_description || '',
+				content:
+					'You can join us in supporting vulnerable women, children and families in Nigeria suffering from the economic impact and consequences of COVID-19.',
+			},
+			{
+				hid: 'og:title',
+				name: 'og:title',
+				content: 'Lagos Food Bank\'s  COVID-19 Emergency Food Intervention Plan (CEFIP',
+			},
+			{
+				hid: 'og:description',
+				name: 'og:description',
+				content:
+					'You can join us in supporting vulnerable women, children and families in Nigeria suffering from the economic impact and consequences of COVID-19.',
+			},
+			{
+				hid: 'og:image',
+				name: 'og:image',
+				content: 'lagosfoodbankapp.web.app/meta.png',
+			},
+
+			{
+				hid: 'og:url',
+				name: 'og:url',
+				content: 'https://lagosfoodbankapp.web.app',
+			},
+			{
+				hid: 'twitter:card',
+				name: 'twitter:card',
+				content: 'summary_large_image',
+			},
+			{
+				name: 'apple-mobile-web-app-status-bar-style',
+				content: 'default',
 			},
 		],
 		link: [
-			{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+			{ rel: 'icon', type: 'image/x-icon', href: '/favico.png' },
 			{
 				rel: 'stylesheet',
 				href:

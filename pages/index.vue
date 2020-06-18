@@ -50,16 +50,45 @@
 		<div
 			class="container flex flex-no-wrap gap-5 lg:grid lg:grid-cols-3 mb-20 overflow-x-scroll relative touch lg:overflow-hidden"
 		>
-			<div v-for="n in 6" :key="n" class="flex-none mr-5 w-90 lg:w-full">
-				<Community />
-			</div>
+			
+				<Community name = "Obalende,Lagos Island" date="16th of April 2020" img="/oban.jpg" />
+				<Community name = "Lekki, Itedo" date="17th of April 2020" img="lek-itedo.jpg" />
+				<Community name = "Alpha Beach" date="17th of April 2020" img="alpha.jpg" />
+				<Community name = "Akoka, Bariga" date="9th of May, 2020" img="bariga.jpg" />
+				<Community name = "Ayobo Ipaja" date="10th of May, 2020" img="ayobo.jpg" />
+				<Community name = "Old Apapa Rd Ebute Metta" date="24th of May, 2020" img="ebutte.jpg" />
+				<Community name = "Esa/ Eyin Igbeti, Isolo" date="28th of April 2020" img="isolo.jpg" />
+				<Community name = "Ebun Otti Maryland, Ikeja" date="13th of May, 2020" img="mary.jpg" />
+				<Community name = "Otto Ilogbo Ebutte metta" date="23rd of May, 2020" img="otto.jpg" />
+				<Community name = "Isheri community" date="22nd of April, 2020" img="isheri.jpg" />
+				<Community name = "NCDC Office" date="8th of April 2020" img="ncdc.jpg" />
+				<Community name = "Ogolonto-Majidun, Ikorodu" date="20th of April 2020" img="ogolo.jpg" />
+				<Community name = "Lone Street, Oworonsoki, Lagos" date="6th of May, 2020" img="lone.jpg" />
+				<Community name = "Shasha, Alimosho" date="22nd of April 2020" img="shasha.jpg" />
+				<Community name = "Cement, Agege" date="27th of April 2020" img="cement.jpg" />
+				<Community name = "Dustbin Estate, Ajegunle" date="3rd of May, 2020" img="dustbin.jpg" />
+				<Community name = "Gbagada" date="30th of April 2020" img="gbagada.jpg" />
+				<Community name = "Iwaya community, Yaba" date="11 th April, 2020" img="iwaya.jpg" />
+				<Community name = "Awori, Agege" date="7th of May, 2020" img="awori.jpg" />
+				<Community name = "Ijora Badia" date="26th March, 2020" img="ijora.jpg" />
+				<Community name = "Aboyi Ketu" date="9th April, 2020" img="aboyi.jpg" />
+				<Community name = "Fagba, Iju" date="17th of May, 2020" img="fagba.jpg" />
+				<Community name = "Mushin Idiko" date="27th of March,2020" img="mushin.jpg" />
+				<Community name = "Agala Community" date="24th of May, 2020" img="agala.jpg" />
+				<Community name = "Ilaja Ogudu Community" date="31st of May, 2020" img="ogudu.jpg" />
+				<Community name = "Ojo-Ajangbadi" date="29th April, 2020" img="ojo.jpg" />
+				<Community name = "Dopemu Agege" date="29th April, 2020" img="dopemu.jpg" />
+				<Community name = "Ikotun, Egbe Community" date="7th June, 2020" img="egbe.jpg" />
+				<Community name = "Ikotun, Ijegun Community" date="7th June, 2020" img="ijegun.jpg" />
+				<Community name = "Ogudu, Surulere" date="14 th June 2020" img="suru.jpg" />
+			
 		</div>
 		<div class="relative">
 			<Donations />
 			<div class="background"></div>
 		</div>
 		<Partners />
-		<div class="container mb-6 lg:mb-32">
+		<div class="container mb-3 lg:mb-12">
 			<h1
 				class="font-extrabold text-2xl lg:text-3xl lg:text-center text-gray-800"
 			>

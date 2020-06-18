@@ -1,7 +1,7 @@
 <template>
 	<div class="nav bg-white flex items-center justify-between mx-auto py-5 sticky top-0  z-10   ">
 		<div>
-			<img src="/logo.png" alt="" style="width: 141px;" />
+			<img src="/logo.png" alt="" style="width: 120px;" />
 		</div>
 		<div>
 			<ul class="flex items-center menu hidden lg:flex">

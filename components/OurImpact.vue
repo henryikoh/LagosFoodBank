@@ -62,7 +62,7 @@
 					>
 						16
 					</h1>
-					<h3 class="text-brand-primary text-lg">Communities Reached</h3>
+					<h3 class="text-brand-primary text-lg">Local Goverment Areas Reached</h3>
 				</div>
 				<div
 					v-scroll-to="'#partners'"
