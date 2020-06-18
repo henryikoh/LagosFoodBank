@@ -80,7 +80,7 @@
 				<Community name = "Dopemu Agege" date="29th April, 2020" img="dopemu.jpg" />
 				<Community name = "Ikotun, Egbe Community" date="7th June, 2020" img="egbe.jpg" />
 				<Community name = "Ikotun, Ijegun Community" date="7th June, 2020" img="ijegun.jpg" />
-				<Community name = "Ogudu, Surulere" date="14 th June 2020" img="suru.jpg" />
+				<Community name = "Ogudu, Surulere" date="14 th June 2020" img="suru.jpg"/>
 			
 		</div>
 		<div class="relative">
