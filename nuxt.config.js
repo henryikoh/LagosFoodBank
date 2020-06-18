@@ -28,7 +28,7 @@ export default {
 			{
 				hid: 'og:image',
 				name: 'og:image',
-				content: 'lagosfoodbankapp.web.app/meta.png',
+				content: 'https://lagosfoodbankapp.web.app/meta.png',
 			},
 
 			{
