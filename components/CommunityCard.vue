@@ -1,7 +1,8 @@
 <template>
 	<div class="mt-6 flex-none mr-5 w-90 lg:w-full">
+		<a :href="this.link" target="_blank">
 		<img
-			class="object-center rounded-lg w-full card-h"
+			class="object-center object-cover rounded-lg w-full card-h"
 			:src="this.img"
 			alt=""
 		/>
@@ -13,6 +14,7 @@
       <h3 class=" bg-brand-acccentLight border border-brand-primary px-3 py-1 rounded-md text-gray-700 text-sm">7,000 Families Fed</h3>
       <h5>40 Volunteers</h5>
     </div> -->
+		</a>
 	</div>
 </template>
 
@@ -27,6 +29,11 @@ export default {
 	height: 225px;
 }
 @screen lg {
+	.card-h {
+		    height: 215px;
+	}
+}
+@screen xl {
 	.card-h {
 		height: 255px;
 	}

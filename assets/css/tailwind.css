@@ -23,6 +23,11 @@
 }
 @screen md {
   .container {
+    @apply  w-80 mx-auto;
+  }
+}
+@screen xl {
+  .container {
     @apply  w-75 mx-auto;
   }
 }

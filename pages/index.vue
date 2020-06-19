@@ -10,13 +10,13 @@
 						LFBI’s COVID-19 Emergency Food Intervention Plan (CEFIP)
 					</h6>
 					<h1
-						class="capitalize font-bold leading-tight lg:text-5xl mt-1 text-3xl text-gray-800"
+						class="capitalize font-bold leading-tight lg:text-4xl mt-1 text-3xl text-gray-800 xl:text-5xl"
 					>
 						Together We Can Reduce The Economic Impact Of Covid-19 By Feeding
 						Vulnerable Families.
 					</h1>
 					<p
-						class="font-light leading-snug lg:text-2xl mt-1 text-gray-600 text-lg"
+						class="font-light leading-snug lg:text-xl mt-1 text-gray-600 text-lg xl:text-2xl"
 					>
 						You can join us in supporting vulnerable women, children and
 						families in Nigeria suffering from the economic impact and
@@ -31,7 +31,7 @@
 				</div>
 				<div class="mb-4 relative lg:w-40 lg:mb-0">
 					<img
-						class="hero1 object-center object-cover rounded-xl shadow-lg w-75 lg:w-80"
+						class="hero1 object-center object-cover rounded-xl shadow-lg w-75 lg:w-85 xl:w-80"
 						src="/hero1.jpg"
 						alt
 					/>
@@ -51,36 +51,36 @@
 			class="container flex flex-no-wrap gap-5 lg:grid lg:grid-cols-3 mb-20 overflow-x-auto relative touch lg:overflow-hidden"
 		>
 			
-				<Community name = "Obalende,Lagos Island" date="16th of April 2020" img="/oban.jpg" />
-				<Community name = "Lekki, Itedo" date="17th of April 2020" img="lek-itedo.jpg" />
-				<Community name = "Alpha Beach" date="17th of April 2020" img="alpha.jpg" />
-				<Community name = "Akoka, Bariga" date="9th of May, 2020" img="bariga.jpg" />
-				<Community name = "Ayobo Ipaja" date="10th of May, 2020" img="ayobo.jpg" />
-				<Community name = "Old Apapa Rd Ebute Metta" date="24th of May, 2020" img="ebutte.jpg" />
-				<Community name = "Esa/ Eyin Igbeti, Isolo" date="28th of April 2020" img="isolo.jpg" />
-				<Community name = "Ebun Otti Maryland, Ikeja" date="13th of May, 2020" img="mary.jpg" />
-				<Community name = "Otto Ilogbo Ebutte metta" date="23rd of May, 2020" img="otto.jpg" />
-				<Community name = "Isheri community" date="22nd of April, 2020" img="isheri.jpg" />
-				<Community name = "NCDC Office" date="8th of April 2020" img="ncdc.jpg" />
-				<Community name = "Ogolonto-Majidun, Ikorodu" date="20th of April 2020" img="ogolo.jpg" />
-				<Community name = "Lone Street, Oworonsoki, Lagos" date="6th of May, 2020" img="lone.jpg" />
-				<Community name = "Shasha, Alimosho" date="22nd of April 2020" img="shasha.jpg" />
-				<Community name = "Cement, Agege" date="27th of April 2020" img="cement.jpg" />
-				<Community name = "Dustbin Estate, Ajegunle" date="3rd of May, 2020" img="dustbin.jpg" />
-				<Community name = "Gbagada" date="30th of April 2020" img="gbagada.jpg" />
-				<Community name = "Iwaya community, Yaba" date="11 th April, 2020" img="iwaya.jpg" />
-				<Community name = "Awori, Agege" date="7th of May, 2020" img="awori.jpg" />
-				<Community name = "Ijora Badia" date="26th March, 2020" img="ijora.jpg" />
-				<Community name = "Aboyi Ketu" date="9th April, 2020" img="aboyi.jpg" />
-				<Community name = "Fagba, Iju" date="17th of May, 2020" img="fagba.jpg" />
-				<Community name = "Mushin Idiko" date="27th of March,2020" img="mushin.jpg" />
-				<Community name = "Agala Community" date="24th of May, 2020" img="agala.jpg" />
-				<Community name = "Ilaja Ogudu Community" date="31st of May, 2020" img="ogudu.jpg" />
-				<Community name = "Ojo-Ajangbadi" date="29th April, 2020" img="ojo.jpg" />
-				<Community name = "Dopemu Agege" date="29th April, 2020" img="dopemu.jpg" />
-				<Community name = "Ikotun, Egbe Community" date="7th June, 2020" img="egbe.jpg" />
-				<Community name = "Ikotun, Ijegun Community" date="7th June, 2020" img="ijegun.jpg" />
-				<Community name = "Ogudu, Surulere" date="14 th June 2020" img="suru.jpg"/>
+				<Community name = "Obalende,Lagos Island" date="16th of April 2020" img="/oban.jpg" link="https://drive.google.com/drive/folders/13KGUKKZfL7fA_4OFN5hYvm62sWXYTBge?usp=sharing"/>
+				<Community name = "Lekki, Itedo" date="17th of April 2020" img="lek-itedo.jpg" link="https://drive.google.com/drive/folders/1qFB9HbpnTlcOZprlT0IkYCuELrWPRUQd?usp=sharing"/>
+				<Community name = "Alpha Beach" date="17th of April 2020" img="alpha.jpg" link="https://drive.google.com/drive/folders/1pTmcn6F5-yJl4OmWeYwffHAVn3YN2TAM?usp=sharing"/>
+				<Community name = "Akoka, Bariga" date="9th of May, 2020" img="bariga.jpg" link="https://drive.google.com/drive/folders/1-wd0NudN84NcnFm8EUzIZY_SWCnToKlo?usp=sharing"/>
+				<Community name = "Ayobo Ipaja" date="10th of May, 2020" img="ayobo.jpg" link="https://drive.google.com/drive/folders/1Vwlqlcdpu7uZWX5_QtoVTfT-kAa4didY?usp=sharing"/>
+				<Community name = "Old Apapa Rd Ebute Metta" date="24th of May, 2020" img="ebutte.jpg" link="https://drive.google.com/drive/folders/1y9GpNSQH6uRdEI05oyCcxTonAmiTg4KY?usp=sharing"/>
+				<Community name = "Esa/ Eyin Igbeti, Isolo" date="28th of April 2020" img="isolo.jpg" link="https://drive.google.com/drive/folders/1GXyHLCJVweMh7S2JXp3vLi0igjTc_RY7?usp=sharing"/>
+				<Community name = "Ebun Otti Maryland, Ikeja" date="13th of May, 2020" img="mary.jpg" link="https://drive.google.com/drive/folders/1AUO56YROF-o4GppuHChe9s7Asxkzm5h6?usp=sharing"/>
+				<Community name = "Otto Ilogbo Ebutte metta" date="23rd of May, 2020" img="otto.jpg" link="https://drive.google.com/drive/folders/1gQ1J61REjfQWPz4qFz2Bx5UH-gN0IxoP?usp=sharing"/>
+				<Community name = "Isheri community" date="22nd of April, 2020" img="isheri.jpg" link="https://drive.google.com/drive/folders/1nE0eCZL8Y7ovoDGygbzT_yGJTeaNp10_?usp=sharing"/>
+				<Community name = "NCDC Office" date="8th of April 2020" img="ncdc.jpg" link="https://drive.google.com/drive/folders/1Ut4WUyBg15Xry8E9aQVBPlzAJRxiCNvj?usp=sharing"/>
+				<Community name = "Ogolonto-Majidun, Ikorodu" date="20th of April 2020" img="ogolo.jpg" link="https://drive.google.com/drive/folders/1N8AvrCPYV0rezdnZ4mwMIEn12HGnSVu2?usp=sharing"/>
+				<Community name = "Lone Street, Oworonsoki, Lagos" date="6th of May, 2020" img="lone.jpg" link="https://drive.google.com/drive/folders/1U2qEsUz2wf6lyPLxenhr3HiOiRxAs3fb?usp=sharing"/>
+				<Community name = "Shasha, Alimosho" date="22nd of April 2020" img="shasha.jpg" link="https://drive.google.com/drive/folders/1gJtNvbfRCIjdyns2gHY3XC2WsTRJi6VB?usp=sharing"/>
+				<Community name = "Cement, Agege" date="27th of April 2020" img="cement.jpg" link="https://drive.google.com/drive/folders/1c1N6w_8SP2KfwYSdHwpkZnvfvy72W-DM?usp=sharing"/>
+				<Community name = "Dustbin Estate, Ajegunle" date="3rd of May, 2020" img="dustbin.jpg" link="https://drive.google.com/drive/folders/1rWJXYJ0DQvd3E1HLQ5y3aC6Me0LlvxsH?usp=sharing"/>
+				<Community name = "Gbagada" date="30th of April 2020" img="gbagada.jpg" link="https://drive.google.com/drive/folders/1UJO5O83PV1CQ6JvlSHPxWNAWKs6HlThj?usp=sharing"/>
+				<Community name = "Iwaya community, Yaba" date="11 th April, 2020" img="iwaya.jpg" link="https://drive.google.com/drive/folders/1UBXDX6F89vPWbkPdYf4FWtENA6Q9htDu?usp=sharing"/>
+				<Community name = "Awori, Agege" date="7th of May, 2020" img="awori.jpg" link="https://drive.google.com/drive/folders/1XGiZEfB5Pee1Be3Iqv8Lpjgolk4_3bWz?usp=sharing"/>
+				<Community name = "Ijora Badia" date="26th March, 2020" img="ijora.jpg" link="https://drive.google.com/drive/folders/13Y8WRIUHXyvTamJ1pQPLNrJHhg9QJz0G?usp=sharing"/>
+				<Community name = "Aboyi Ketu" date="9th April, 2020" img="aboyi.jpg" link="https://drive.google.com/drive/folders/1fLqfaAXU8PHA76gRfLN2fyFhs8-OZeV6?usp=sharing"/>
+				<Community name = "Fagba, Iju" date="17th of May, 2020" img="fagba.jpg" link="https://drive.google.com/drive/folders/1WjScmLOXkisI3J4M0pGVy4TEjMtEjzP6?usp=sharing"/>
+				<Community name = "Mushin Idiko" date="27th of March,2020" img="mushin.jpg" link="https://drive.google.com/drive/folders/1tWR5taqDHfgrnSAc62WDxAIABb_ugIv6?usp=sharing" />
+				<Community name = "Agala Community" date="24th of May, 2020" img="agala.jpg" link="https://drive.google.com/drive/folders/1DKsLbBcpW5ACc_9bLeqb9xixH3_oN5VY?usp=sharing" />
+				<Community name = "Ilaja Ogudu Community" date="31st of May, 2020" img="ogudu.jpg" link="https://drive.google.com/drive/folders/1pIecBfcHY8aoXhvnqxxpmvzFjjUN4BsE?usp=sharing" />
+				<Community name = "Ojo-Ajangbadi" date="29th April, 2020" img="ojo.jpg" link="https://drive.google.com/drive/folders/1RGcWF3jHNRVjjIybbJ8knf88wJygRjrr?usp=sharing" />
+				<Community name = "Dopemu Agege" date="29th April, 2020" img="dopemu.jpg" link="https://drive.google.com/drive/folders/1ixuYsWffryBmu2rUzXhrO8ArCz1p48jb?usp=sharing" />
+				<Community name = "Ikotun, Egbe Community" date="7th June, 2020" img="egbe.jpg" link="https://drive.google.com/drive/folders/1GKeys_LnKs4djFgtOVXaPilYE45AbEXq?usp=sharing" />
+				<Community name = "Ikotun, Ijegun Community" date="7th June, 2020" img="ijegun.jpg" link="https://drive.google.com/drive/folders/1ipCloQ3_0bT3odnSzliZTB2b8vA-2luH?usp=sharing" />
+				<Community name = "Aguda, Surulere" date="14 th June 2020" img="suru.jpg" link="https://drive.google.com/drive/folders/1vrbwrAzpYqayfGMhBGWb6Nv3HJIXlS6d?usp=sharing"/>
 			
 		</div>
 		<div class="relative">
@@ -113,7 +113,7 @@
 			</div> -->
 		</div>
 		<div class="bg-brand-primaryLight cursor-pointer" @click="openImpact">
-			<div class="flex items-center p-5 w-90 lg:w-fit mx-auto">
+			<div class="flex items-center justify-center p-5 w-90 lg:w-fit mx-auto">
 				<div class="impacticon">
 					<svg
 						viewBox="0 0 79 96"
@@ -206,6 +206,42 @@ export default {
 	width: 30px;
 }
 @screen lg {
+	.background {
+		height: 500px;
+		position: absolute;
+		width: 100%;
+		bottom: -100px;
+		z-index: -1;
+		background: linear-gradient(
+				180deg,
+				rgba(255, 255, 255, 0) 91.62%,
+				#ffffff 100%
+			),
+			linear-gradient(
+				180deg,
+				rgba(255, 255, 255, 0.63) 10.42%,
+				rgba(255, 255, 255, 0) 100%
+			),
+			url(/lfb.png);
+	}
+	/* Sample `apply` at-rules with Tailwind CSS */
+	/* .container {
+  @apply  mx-auto bg-red-900 p-2;
+} */
+
+	.hero2 {
+		/* top: 64px;
+    right: -48px; */
+		height: 215px;
+	}
+	.hero1 {
+		height: 400px;
+	}
+	.impacticon{
+		width: 79px;
+	}
+}
+@screen xl {
 	.background {
 		height: 500px;
 		position: absolute;

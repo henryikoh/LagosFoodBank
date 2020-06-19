@@ -5,7 +5,7 @@
 		</h1>
 		<div class="lg:mt-8 mt-4 relative">
 			<div
-				class="container gap-10 grid lg:grid-cols-3 grid-rows-1 impact lg:grid"
+				class="container grid grid-rows-1 gap-8 impact lg:gap-8 lg:grid lg:grid-cols-3 xl:gap-10"
 			>
 				<div
 					class="bg-white border border-brand-primary lg:card-shadow lg:p-6 p-4 rounded-lg text-center"
@@ -138,7 +138,7 @@
 			</div>
 		</div>
 		<h2
-			class="container mt-12 text-left font-light lg:text-2xl lg:w-65 lg:mt-20 mx-auto lg:text-center text-gray-700 text-lg"
+			class="container font-light lg:mt-20 lg:text-center lg:text-xl mt-12 mx-auto text-gray-700 text-left text-lg xl:text-2xl xl:w-65"
 		>
 			Since the inception of the COVID-19 Emergency Food Intervention Plan
 			(CEFIP), the Food Bank has reached 89,625 Vulnerable families with needed

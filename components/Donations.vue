@@ -10,14 +10,12 @@
 				class="bg-brand-primaryLight hidden lg:flex items-center lg:px-10 lg:w-50 px-3"
 			>
 				<div class="card-left lg:-mt-12 my-5">
-					<h1 class="font-bold leading-tight lg:text-4xl text-2xl text-white">
+					<h1 class="font-bold leading-tight lg:text-3xl text-2xl text-white xl:text-3xl">
 						Together We Can Reduce The Economic Impact Of Covid-19 By Feeding
 						Vulnerable Families.
 					</h1>
 					<p class="lg:leading-8 mt-4 text-gray-700 lg:text-lg">
-						We would love to thank everyone for donating to our fund, each
-						amount goes a long way in helping us feed vulnerable families in
-						need. Thank you soo much for being a kind Human
+						We would love to thank everyone for donating to our food relief interventions, each amount goes a long way in helping us feed vulnerable families in need. Thank you.
 						<br />
 						<br />
 						- LFB Team.
