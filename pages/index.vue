@@ -97,9 +97,9 @@
 			<p
 				class="font-light mt-4 mx-auto lg:text-center text-gray-800 text-lg lg:w-85"
 			>
-				Our mission beyond COVID-19 is in two parts. a. To act as a frontline
+				Our mission beyond COVID-19 is in two parts. To act as a frontline
 				agency assisting those struggling with malnutrition and hunger across
-				the country. b. To act as a food warehouse with branches in all the 20
+				the country and, To act as a food warehouse with branches in all the 20
 				Local Governments in Lagos and to work with other agencies that assist
 				people in need.
 			</p>
