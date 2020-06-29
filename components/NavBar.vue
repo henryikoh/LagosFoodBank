@@ -5,9 +5,9 @@
 		</div>
 		<div>
 			<ul class="flex items-center menu hidden lg:flex">
-				<li class="">Home</li>
-				<li class="">About</li>
-				<li class="">Donations</li>
+				<li class=""><a class=" text-gray-800 hover:text-brand-accent" href="https://www.lagosfoodbank.org/our-gallery/" target="_blank">Home</a></li>
+				<li class=""><a class=" text-gray-800 hover:text-brand-accent" href="https://www.lagosfoodbank.org/about-us/" target="_blank">About</a></li>
+				<li class=""><a class=" text-gray-800 hover:text-brand-accent" href="https://www.lagosfoodbank.org/donations/" target="_blank">Donations</a></li>
 				<li class="">
 					<button
 						v-scroll-to="'#money'"
